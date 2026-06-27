@@ -1,7 +1,6 @@
 {
-  "name": "mia-bela",
-  "private": true,
-  "version": "0.0.0",
+  "name": "Date Planner",
+  "homepage": "https://YagamiKiraKun.github.io/Date-Planner",
   "type": "module",
   "scripts": {
     "dev": "vite",
